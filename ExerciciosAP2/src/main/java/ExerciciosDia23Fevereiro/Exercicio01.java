@@ -1,4 +1,4 @@
-package ExerciciosMatrizAlgoritmos2;
+package ExerciciosDia23Fevereiro;
 
 import java.util.Random;
 import java.util.Scanner;
